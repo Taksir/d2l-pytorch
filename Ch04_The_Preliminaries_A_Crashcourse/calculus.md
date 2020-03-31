@@ -1,3 +1,5 @@
+https://d2l.ai/chapter_preliminaries/calculus.html
+
 # Calculus
 :label:`sec_calculus`
 
